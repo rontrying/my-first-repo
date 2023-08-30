@@ -5,3 +5,5 @@ NPM     : 2206827610
 Kelas   : PBP E
 
 Hobi    : Ngoding
+
+jurusan : Sistem Informasi
